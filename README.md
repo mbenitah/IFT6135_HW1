@@ -1,4 +1,7 @@
 # IFT6135_HW1
+Assignment link:
+https://www.overleaf.com/read/msxwmbbvfxrd
+https://www.overleaf.com/9346553941nbqmqwdyngnk
 
 References:
 http://yann.lecun.com/exdb/mnist/
